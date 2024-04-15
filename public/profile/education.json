@@ -1,19 +1,19 @@
 {
     "education":[
         {
-            "title": "Jun 20XX - Jun 20YY",
-            "cardTitle": "B.Tech, Computer Science",
-            "cardSubtitle":"XYZ University, City",
-            "cardDetailedText": "CGPA - 9.5",
+            "title": "Marzo 2023 - Actualmente",
+            "cardTitle": "Analista Programador Computacional",
+            "cardSubtitle":"Duoc UC, Santiago",
+            "cardDetailedText": "",
             "icon" : {
-                "src": "images/education/lorem-ipsum.png"
+                "src": ""
             }
         },
         {
-            "title": "Apr 20XX",
-            "cardTitle": "High School",
-            "cardSubtitle":"ABC School, City",
-            "cardDetailedText": "Marks - 95%"
+            "title": "Año 2022",
+            "cardTitle": "Universidad Federico Santa María",
+            "cardSubtitle":"Técnico en Informática, Viña del Mar",
+            "cardDetailedText": ""
         }
     ]
 }
